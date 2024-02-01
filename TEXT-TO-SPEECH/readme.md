@@ -26,3 +26,6 @@ The application may support multiple languages to cater to a diverse user base.
 
 Users often have the option to choose from a variety of voices with different accents and tones. Some applications might even provide gender options.
  
+ # Output Images :
+
+ ![Alt text](<Screenshot 2024-02-01 182200.png>)
