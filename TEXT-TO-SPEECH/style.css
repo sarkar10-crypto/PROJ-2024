@@ -40,6 +40,7 @@
  textarea::placeholder{
     font-size: 16px;
     color: #ddd;
+    font-family: 'platino','serif';
  }
 
  .row{
