@@ -30,4 +30,4 @@ Users often have the option to choose from a variety of voices with different ac
  
  # Output Images :
 
-  ![Alt text](<Screenshot 2024-02-01 191749.png>)
+![alt text](image.png)
